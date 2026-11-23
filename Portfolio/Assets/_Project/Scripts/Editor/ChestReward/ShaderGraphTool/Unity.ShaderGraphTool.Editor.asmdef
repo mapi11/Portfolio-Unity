@@ -1,0 +1,21 @@
+{
+    "name": "Unity.ShaderGraphTool.Editor",
+    "rootNamespace": "Portfolio.ShaderGraphTool",
+    "references": [
+        "Unity.ShaderGraph.Editor",
+        "Unity.ShaderGraph.Utilities",
+        "Unity.RenderPipelines.Universal.Editor",
+        "Unity.RenderPipelines.Core.Editor"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
